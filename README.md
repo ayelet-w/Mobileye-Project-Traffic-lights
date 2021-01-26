@@ -1,4 +1,4 @@
-# Mobileye Project - ExcellenTeam Bootcamp 
+# Mobileye Project - Detect Traffic Lights (ExcellenTeam Bootcamp)
 ## Team Members:
 ### Ayelet Weinstock
 ### Yael Rubin
